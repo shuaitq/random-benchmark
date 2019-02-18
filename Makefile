@@ -1,5 +1,5 @@
 PROJECT = benchmark
-CPP = clang++
+CPP = g++
 CPPFLAGS = -std=c++11 -O2
 
 benchmark: benchmark.cpp
